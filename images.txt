@@ -10,5 +10,10 @@ nginx:1.26
 adhocore/phpfpm:7.4
 adhocore/phpfpm:8.2
 mysql:5.7
+mysql:8.0
+elasticsearch:7.12.1
+kibana:7.12.1
+redis:latest
+redis/redis-stack:latest
 
 
