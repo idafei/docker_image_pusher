@@ -13,9 +13,9 @@ mysql:5.7
 mysql:8.0
 redis:7.2
 redis/redis-stack:latest
-elasticsearch:7.12
-kibana:7.12
-elasticsearch:8.12
-kibana:8.12
+elasticsearch:7.12.1
+kibana:7.12.1
+elasticsearch:8.12.2
+kibana:8.12.2
 
 
