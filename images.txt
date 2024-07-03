@@ -12,7 +12,7 @@ adhocore/phpfpm:8.2
 mysql:5.7
 mysql:8.0
 redis:7.2
-redis/redis-stack:7.2
+redis/redis-stack:latest
 elasticsearch:7.12
 kibana:7.12
 elasticsearch:8.12
