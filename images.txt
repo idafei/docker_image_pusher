@@ -20,4 +20,3 @@ kibana:8.12.2
 elasticsearch:8.16.0
 kibana:8.16.0
 
-
