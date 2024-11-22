@@ -17,5 +17,7 @@ elasticsearch:7.12.1
 kibana:7.12.1
 elasticsearch:8.12.2
 kibana:8.12.2
+elasticsearch:8.16.0
+kibana:8.16.0
 
 
