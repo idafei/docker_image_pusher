@@ -8,7 +8,11 @@
 nginx:1.24
 nginx:1.26
 adhocore/phpfpm:7.4
+adhocore/phpfpm:8.0
+adhocore/phpfpm:8.1
 adhocore/phpfpm:8.2
+adhocore/phpfpm:8.3
+adhocore/phpfpm:8.4
 mysql:5.7
 mysql:8.0
 redis:7.2
